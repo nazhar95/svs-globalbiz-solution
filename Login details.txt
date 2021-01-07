@@ -1,0 +1,15 @@
+Customer
+Email: raniasyazia95@gmail.com
+Password: Pass@1234
+
+Email: naz.abdullah@gmail.com
+Password: Test@1234
+
+--------------------------------------------------------------
+
+Admin
+Email: svsbiz23@gmail.com
+Password: Admin@1234
+
+Email: john.doe@gmail.com
+Password: Test@1234
